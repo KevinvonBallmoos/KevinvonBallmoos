@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KevinvonBallmoos
-- 👀 I’m interested in Java, HTML, CSS, JavaScript
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript and more :)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I have experienced skills in C#, Powershell and MsSql.
+- I have profound knowledge in the languages Javascript, Typescript, Html and Css.
+- Working with TFS, Git, Github or Gitlab belongs to my experiences.
+- 📫 How to reach me: vonballmooskevin@gmail.com
 
 <!---
 KevinvonBallmoos/KevinvonBallmoos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
