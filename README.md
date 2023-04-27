@@ -2,6 +2,7 @@
 - I have experienced skills in C#, Powershell and MsSql.
 - I have profound knowledge in the languages Javascript, Typescript, Html and Css.
 - Working with TFS, Git, Github or Gitlab belongs to my experiences.
+- My goal is to become a Game Developer
 - 📫 How to reach me: vonballmooskevin@gmail.com
 
 <!---
