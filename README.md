@@ -1,4 +1,4 @@
-## Hi, I’m @KevinvonBallmoos
+### Hi, I’m @KevinvonBallmoos
 ###### Currently studying Diploma of Education in Games Programming at Sae Institute Zurich.
 ---
 
