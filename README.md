@@ -1,5 +1,5 @@
 👋 ##Hi, I’m @KevinvonBallmoos
-# Currently studying Diploma of Education in Games Programming at Sae Institute Zurich.
+##### Currently studying Diploma of Education in Games Programming at Sae Institute Zurich.
 ---
 
 ## 💻 Skills and Expertise
