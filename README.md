@@ -1,6 +1,7 @@
 #👋 Hi, I’m @KevinvonBallmoos
 ### Currently studying Diploma of Education in Games Programming at Sae Institute Zurich.
-- 
+---
+
 ## 💻 Skills and Expertise
 
 ### Game Engine and Programming
@@ -43,7 +44,10 @@
 - Git
 - SQL Databases
 
-- 📫 How to reach me: vonballmooskevin@gmail.com
+---
+
+### Contact
+- 📫 vonballmooskevin@gmail.com
 
 <!---
 KevinvonBallmoos/KevinvonBallmoos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
