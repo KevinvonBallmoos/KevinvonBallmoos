@@ -1,8 +1,48 @@
-- 👋 Hi, I’m @KevinvonBallmoos
-- I have experienced skills in C#, Powershell and MsSql.
-- I have profound knowledge in the languages Javascript, Typescript, Html and Css.
-- Working with TFS, Git, Github or Gitlab belongs to my experiences.
-- My goal is to become a Game Developer
+#👋 Hi, I’m @KevinvonBallmoos
+### Currently studying Diploma of Education in Games Programming at Sae Institute Zurich.
+- 
+## 💻 Skills and Expertise
+
+### Game Engine and Programming
+- Unity Engine
+- C# Programming
+- Object-Oriented Programming (OOP)
+- Dependency Injection (DI)
+- Asynchronous Programming
+
+### Game Development Knowledge
+- Scene Management
+- Player Input Systems
+- Physics Systems (e.g., Rigidbodies, Colliders, Triggers)
+- Prefabs and GameObject Management
+- UI Design and Implementation
+- Basic Animation (e.g., Animator Controller, Animation Clips)
+- Event Systems and Listeners
+- Debugging and Profiling in Unity
+- Scripting for Game Logic (e.g., Movement, Spawning, Interaction)
+- Basic 2D and 3D game mechanics
+
+### Frameworks and Libraries
+- Unity Engine
+- .NET
+- ASP.NET Core
+
+### Additional Skills
+- REST APIs
+- Dependency Decoupling
+- Code Refactoring
+
+### Ongoing Learning
+- Lightning
+- Movement
+- Optimization for Performance
+
+### Tools
+- JetBrains Rider
+- Visual Studio
+- Git
+- SQL Databases
+
 - 📫 How to reach me: vonballmooskevin@gmail.com
 
 <!---
